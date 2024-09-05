@@ -1,1 +1,1 @@
-# GenAI-HugginFace-Langchain
+# GenAI-LangChain-HuggingFace
